@@ -1,1 +1,7 @@
 */*.diff
+*/*.o
+
+dmenu/dmenu
+slock/slock
+slstatus/slstatus
+tabbed/tabbed
