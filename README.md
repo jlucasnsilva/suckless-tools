@@ -11,5 +11,5 @@
     - `slock/slock-mediakeys-slock-1.4.diff`
 - slstatus
 - tabbed
-    - alpha.diff
-    - tabbed-clientnumber-0.6.diff
+    - `alpha.diff`
+    - `tabbed-clientnumber-0.6.diff`
