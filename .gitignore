@@ -1,5 +1,6 @@
 */*.diff
 */*.o
+slstatus/components/*.o
 
 dmenu/dmenu
 slock/slock
